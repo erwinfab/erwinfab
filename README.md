@@ -13,10 +13,12 @@
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/erwinfab/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/erwinfab/azure-network-protocols)
 
-### [Network Design & Troubleshooting Portfolio](https://github.com/erwinfab/Network-Projects)
-* **VLSM Design:** Engineered an IPv4 addressing scheme for 100+ hosts using Cisco Packet Tracer.
-* **IPv6 Implementation:** Configured dual-stack routing and Link-Local addressing.
-* **Troubleshooting:** Resolved Default Gateway and connectivity issues via Cisco IOS CLI.
+- **Cisco Networking & Troubleshooting Portfolio**
+  - Engineered **VLSM addressing schemes** for multi-departmental networks (100+ hosts).
+  - Configured **dual-stack IPv4/IPv6 routing** and Link-Local addressing.
+  - Resolved **Default Gateway** and connectivity issues via Cisco IOS CLI.
+  - Verified network integrity using ICMP testing and IOS verification commands.
+  - Check out the repository [here](https://github.com/erwinfab/Network-Projects).
 
 
 <h2> Connect with me:</h2>

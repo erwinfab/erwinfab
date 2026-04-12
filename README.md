@@ -1,6 +1,9 @@
 <h1>Hi, I'm Erwin, an <a href="https://linkedin.com/in/erwinfabian">IT Professional</a> </h1>
+💻Aspiring IT & Cybersecurity Professional<br>
+🖧Exploring networks, systems, and security tools<br>
+🛠️Building skills through hands-on labs and practical problem-solving<br>
 
-<h2> Information Technology Projects:</h2>
+<h2>👨‍💻 Information Technology Projects:</h2>
 
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/erwinfab/osticket-prereqs)

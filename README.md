@@ -19,6 +19,7 @@
   - Resolved **Default Gateway** and connectivity issues via Cisco IOS CLI.
   - Verified network integrity using ICMP testing and IOS verification commands.
   - Check out the repository [here](https://github.com/erwinfab/Network-Projects).
+  - [Packet Traceer: Design and Implement a VLSM Addressing Scheme] (https://github.com/erwinfab/design-and-implement-a-vlsm-addressing-scheme)
 
 
 <h2> Connect with me:</h2>

@@ -14,11 +14,6 @@
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/erwinfab/azure-network-protocols)
 
 - **Cisco Networking & Troubleshooting Portfolio**
-  - Engineered **VLSM addressing schemes** for multi-departmental networks (100+ hosts).
-  - Configured **dual-stack IPv4/IPv6 routing** and Link-Local addressing.
-  - Resolved **Default Gateway** and connectivity issues via Cisco IOS CLI.
-  - Verified network integrity using ICMP testing and IOS verification commands.
-  - Check out the repository [here](https://github.com/erwinfab/Network-Projects).
   - [Packet Traceer: Design and Implement a VLSM Addressing Scheme](https://github.com/erwinfab/design-and-implement-a-vlsm-addressing-scheme)
   - [Packet Traceer: Troubleshoot Default Gateway Issues](https://github.com/erwinfab/troubleshoot-default-gateway-issues)
 

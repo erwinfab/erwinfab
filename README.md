@@ -14,9 +14,9 @@
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/erwinfab/azure-network-protocols)
 
 - **Cisco Networking & Troubleshooting Portfolio**
-  - [Packet Traceer: Design and Implement a VLSM Addressing Scheme](https://github.com/erwinfab/design-and-implement-a-vlsm-addressing-scheme)
-  - [Packet Traceer: Troubleshoot Default Gateway Issues](https://github.com/erwinfab/troubleshoot-default-gateway-issues)
-  - [Packet Traceer: Design, Build, and Secure a Small Network (Physical Mode)](https://github.com/erwinfab/design-build-and-secure-a-small-network--physical-mode)
+  - [Packet Tracer: Design and Implement a VLSM Addressing Scheme](https://github.com/erwinfab/design-and-implement-a-vlsm-addressing-scheme)
+  - [Packet Tracer: Troubleshoot Default Gateway Issues](https://github.com/erwinfab/troubleshoot-default-gateway-issues)
+  - [Packet Tracer: Design, Build, and Secure a Small Network (Physical Mode)](https://github.com/erwinfab/design-build-and-secure-a-small-network--physical-mode-)
 
 <h2> Connect with me:</h2>
 

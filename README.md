@@ -1,8 +1,6 @@
 <h1>Hi, I'm Erwin, an <a href="https://linkedin.com/in/erwinfabian">IT Professional</a> </h1>
 💻 Information & Cybersecurity Technology Student at ECU
-
 🛠️ Hands-on experience deploying cloud lab environments, provisioning Active Directory, and managing user permission lifecycles
-
 🌐 Familiar with network infrastructure engineering, VLSM addressing schemes, and Cisco IOS troubleshooting
 
 <h2>👨‍💻 Information Technology Projects:</h2>

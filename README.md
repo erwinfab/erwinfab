@@ -1,9 +1,7 @@
 <h1>Hi, I'm Erwin, an <a href="https://linkedin.com/in/erwinfabian">IT Professional</a> </h1>
 
 💻 Information & Cybersecurity Technology Student at ECU
-
 🛠️ Hands-on experience deploying cloud lab environments, provisioning Active Directory, and managing user permission lifecycles
-
 🌐 Familiar with network infrastructure engineering, VLSM addressing schemes, and Cisco IOS troubleshooting
 
 **👨‍💻 Information Technology Projects:**
@@ -20,6 +18,12 @@
   - [Packet Tracer: Design and Implement a VLSM Addressing Scheme](https://github.com/erwinfab/design-and-implement-a-vlsm-addressing-scheme)
   - [Packet Tracer: Troubleshoot Default Gateway Issues](https://github.com/erwinfab/troubleshoot-default-gateway-issues)
   - [Packet Tracer: Design, Build, and Secure a Small Network (Physical Mode)](https://github.com/erwinfab/design-build-and-secure-a-small-network--physical-mode-)
+
+- **🛠️ Core Tech Stack & Tools**
+  - Operating Systems: Windows 10/11 Pro, Windows Server, macOS, Linux/Unix
+  - Cloud & Systems: Microsoft Azure, Active Directory (AD), GPO, Microsoft 365, Google Workspace
+  - Networking: TCP/IP, DNS, DHCP, VLSM Subnetting, Cisco IOS CLI
+  - Automation & Support: Windows PowerShell Scripting, osTicket
 
   **Connect with me:**
 

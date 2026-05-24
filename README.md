@@ -8,15 +8,15 @@
 
 **👨‍💻 Information Technology Projects:**
 
-- **osTicket (Help Desk Ticketing System)**
+- **🎫 Enterprise Support & Ticket Lifecycle Management (osTicket)**
   - [osTicket: Prerequisites and Installation (Part 1)](https://github.com/erwinfab/osticket-prereqs)
   - [osTicket: Post-Installation Configuration (Part 2)](https://github.com/erwinfab/post-install-config)
   - [osTicket: Ticket Lifecycle Examples (Part 3)](https://github.com/erwinfab/ticket-lifecycle)
-- **Microsoft Azure**
+- **☁️ Cloud Infrastructure & Identity Access Management (Azure AD)**
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/erwinfab/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/erwinfab/azure-network-protocols)
 
-- **Cisco Networking & Troubleshooting Portfolio**
+- **🔌 Network Engineering & Connectivity Troubleshooting (Cisco IOS)**
   - [Packet Tracer: Design and Implement a VLSM Addressing Scheme](https://github.com/erwinfab/design-and-implement-a-vlsm-addressing-scheme)
   - [Packet Tracer: Troubleshoot Default Gateway Issues](https://github.com/erwinfab/troubleshoot-default-gateway-issues)
   - [Packet Tracer: Design, Build, and Secure a Small Network (Physical Mode)](https://github.com/erwinfab/design-build-and-secure-a-small-network--physical-mode-)

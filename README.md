@@ -20,8 +20,8 @@
   - [Packet Tracer: Design, Build, and Secure a Small Network (Physical Mode)](https://github.com/erwinfab/design-build-and-secure-a-small-network--physical-mode-)
 
 - **🛠️ Core Tech Stack & Tools**
-  - Operating Systems: Windows 10/11 Pro, Windows Server, macOS, Linux/Unix
-  - Cloud & Systems: Microsoft Azure, Active Directory (AD), GPO, Microsoft 365, Google Workspace
+  - Operating Systems: Windows 10/11 Pro, Windows Server, Linux/Unix
+  - Cloud & Systems: Microsoft Azure, Active Directory (AD), GPO, Google Workspace
   - Networking: TCP/IP, DNS, DHCP, VLSM Subnetting, Cisco IOS CLI
   - Automation & Support: Windows PowerShell Scripting, osTicket
 

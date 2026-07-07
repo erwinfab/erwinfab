@@ -21,7 +21,9 @@
  
 - **🚀 Red Hat System Administration Coursework Portfolio**
 
+
 I am currently completing the official Red Hat System Administration tracks (RH124 & RH134) toward system validation engineering. Below is the documentation of my hands-on laboratory exercises, covering platform architecture, security controls, and deployment automation:
+
 
 - [Network Management: RHEL Network Interface Configuration Lab](https://github.com/yourusername/YOUR-REPO-LINK) — Multi-homing network interfaces and using nmcli. 
 - [Secure Shell Protocols: Coming Soon Secure Shell Protocol Hardening] — Multi-node host verification keys and root access protection.

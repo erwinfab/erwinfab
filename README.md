@@ -20,15 +20,11 @@
   - [Packet Tracer: Design, Build, and Secure a Small Network (Physical Mode)](https://github.com/erwinfab/design-build-and-secure-a-small-network--physical-mode-)
  
 - **🚀 Red Hat System Administration Coursework Portfolio**
-
-
-I am currently completing the official Red Hat System Administration tracks (RH124 & RH134) toward system validation engineering. Below is the documentation of my hands-on laboratory exercises, covering platform architecture, security controls, and deployment automation:
-
-
   - [Network Management: RHEL Network Interface Configuration Lab](https://github.com/yourusername/YOUR-REPO-LINK) — Multi-homing network interfaces and using nmcli. 
   - [Secure Shell Protocols: Coming Soon Secure Shell Protocol Hardening] — Multi-node host verification keys and root access protection.
   - [Software Management: Coming Soon Enterprise Software Deployment] — Managing local repository registries and DNF dependency loops. 
 
+I am currently completing the official Red Hat System Administration tracks (RH124 & RH134) toward system validation engineering. Below is the documentation of my hands-on laboratory exercises, covering platform architecture, security controls, and deployment automation:
 
 - **🛠️ Core Tech Stack & Tools**
   - Operating Systems: Windows 10/11 Pro, Windows Server, Linux/Unix

@@ -20,7 +20,7 @@
   - [Packet Tracer: Design, Build, and Secure a Small Network (Physical Mode)](https://github.com/erwinfab/design-build-and-secure-a-small-network--physical-mode-)
  
 - **🐧 Red Hat Enterprise Linux (RHEL 9.3) Core Administration Capstone**
-  - Lab 1: Command Line File Management & Stream Redirection
+  - [Lab 1: Command Line File Management & Stream Redirection](https://github.com/erwinfab/command-line-file-management-stream-redirection)
   - Lab 2: Enterprise Identity, Access Management & Local Security
   - Lab 3: Server Configuration & Process Management
   - Lab 4: Network Interface Engineering & Static Routing

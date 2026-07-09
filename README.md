@@ -25,7 +25,7 @@
   - Lab 3: Server Configuration & Process Management
   - Lab 4: Network Interface Engineering & Static Routing
   - Lab 5: Storage Architecture & Dynamic File Systems
-  - [Network Management: RHEL Network Interface Configuration Lab]([https://github.com/yourusername/YOUR-REPO-LINK](https://github.com/erwinfab/network-interface-configuration)) — Multi-homing network interfaces and using nmcli. 
+  - [Network Management: RHEL Network Interface Configuration Lab](https://github.com/erwinfab/network-interface-configuration) — Multi-homing network interfaces and using nmcli. 
 
 
 

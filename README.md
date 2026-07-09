@@ -21,10 +21,12 @@
  
 - **🐧 Red Hat Enterprise Linux (RHEL 9.3) Core Administration Capstone**
   - [Lab 1: Command Line File Management & Stream Redirection](https://github.com/erwinfab/command-line-file-management-stream-redirection)
-  - Lab 2: Enterprise Identity, Access Management & Local Security
-  - Lab 3: Server Configuration & Process Management
-  - Lab 4: Network Interface Engineering & Static Routing
-  - Lab 5: Storage Architecture & Dynamic File Systems
+  - [Lab 2: Enterprise Identity, Access Management & Local Security](https://github.com/erwinfab/enterprise-identity-access-management-local-security)
+  - [Lab 3: Server Configuration & Process Management](https://github.com/erwinfab/server-configuration-process-management)
+  - [Lab 4: Network Interface Engineering & Static Routing](https://github.com/erwinfab/network-interface-engineering-static-routing)
+  - [Lab 5: Storage Architecture & Dynamic File Systems](https://github.com/erwinfab/storage-architecture-dynamic-file-systems)
+ 
+- 
   - [Network Management: RHEL Network Interface Configuration Lab](https://github.com/erwinfab/network-interface-configuration) — Multi-homing network interfaces and using nmcli. 
 
 

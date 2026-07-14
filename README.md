@@ -26,10 +26,6 @@
   - [Lab 4: Network Interface Engineering & Static Routing](https://github.com/erwinfab/network-interface-engineering-static-routing)
   - [Lab 5: Storage Architecture & Dynamic File Systems](https://github.com/erwinfab/storage-architecture-dynamic-file-systems)
  
-- 
-  - [Network Management: RHEL Network Interface Configuration Lab](https://github.com/erwinfab/network-interface-configuration) — Multi-homing network interfaces and using nmcli. 
-
-
 
 - **🛠️ Core Tech Stack & Tools**
   - Operating Systems: Windows 10/11 Pro, Windows Server, Linux/Unix

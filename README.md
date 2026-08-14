@@ -12,9 +12,9 @@
   - [Part 3: UEFI/BIOS Boot Configuration, Disk Partitioning & Fresh Deployment](https://github.com/erwinfab/pc-hardware-refresh-os-deployment#stage-3-bios-configuration--clean-os-installation)
  
 - **🎫 Enterprise Support & Ticket Lifecycle Management (osTicket)**
-  - [osTicket: Prerequisites and Installation (Part 1)](https://github.com/erwinfab/osticket-prereqs)
-  - [osTicket: Post-Installation Configuration (Part 2)](https://github.com/erwinfab/post-install-config)
-  - [osTicket: Ticket Lifecycle Examples (Part 3)](https://github.com/erwinfab/ticket-lifecycle)
+  - [(Part 1) osTicket: Prerequisites and Installation](https://github.com/erwinfab/osticket-prereqs)
+  - [(Part 2) osTicket: Post-Installation Configuration](https://github.com/erwinfab/post-install-config)
+  - [(Part 3) osTicket: Ticket Lifecycle Examples](https://github.com/erwinfab/ticket-lifecycle)
 - **☁️ Cloud Infrastructure & Identity Access Management (Azure AD)**
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/erwinfab/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/erwinfab/azure-network-protocols)

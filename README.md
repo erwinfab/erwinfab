@@ -6,6 +6,11 @@
 
 **👨‍💻 Information Technology Projects:**
 
+- 🖥️ **Desktop Hardware Overhaul & OS Deployment Walkthrough**
+  - [Part 1: Physical Maintenance — CPU Thermal Servicing & 1TB SSD Upgrade](https://github.com/erwinfab/pc-hardware-refresh-os-deployment#stage-1-physical-maintenance--component-upgrade)
+  - [Part 2: Bootable Installation Media Preparation (Windows 10)](https://github.com/erwinfab/pc-hardware-refresh-os-deployment#stage-2-windows-10-bootable-media-creation)
+  - [Part 3: UEFI/BIOS Boot Configuration, Disk Partitioning & Fresh Deployment](https://github.com/erwinfab/pc-hardware-refresh-os-deployment#stage-3-bios-configuration--clean-os-installation)
+ 
 - **🎫 Enterprise Support & Ticket Lifecycle Management (osTicket)**
   - [osTicket: Prerequisites and Installation (Part 1)](https://github.com/erwinfab/osticket-prereqs)
   - [osTicket: Post-Installation Configuration (Part 2)](https://github.com/erwinfab/post-install-config)
@@ -25,7 +30,9 @@
   - [Lab 3: Server Configuration & Process Management](https://github.com/erwinfab/server-configuration-process-management)
   - [Lab 4: Network Interface Engineering & Static Routing](https://github.com/erwinfab/network-interface-engineering-static-routing)
   - [Lab 5: Storage Architecture & Dynamic File Systems](https://github.com/erwinfab/storage-architecture-dynamic-file-systems)
- 
+
+
+
 
 - **🛠️ Core Tech Stack & Tools**
   - Operating Systems: Windows 10/11 Pro, Windows Server, Linux/Unix

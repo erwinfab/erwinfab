@@ -1,7 +1,7 @@
 <h1>Hi, I'm Erwin, an <a href="https://linkedin.com/in/erwinfabian">IT Professional</a> </h1>
 
 
-**Information Technology Projects:**
+***Information Technology Projects:***
 
 -  **Desktop Hardware Overhaul & OS Deployment Walkthrough**
     - [(Part 1): Physical Maintenance — CPU Thermal Servicing & 1TB SSD Upgrade](https://github.com/erwinfab/pc-hardware-refresh-os-deployment#stage-1-physical-maintenance--component-upgrade)

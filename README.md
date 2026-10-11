@@ -1,14 +1,14 @@
 <h1>Hi, I'm Erwin, an <a href="https://linkedin.com/in/erwinfabian">IT Professional</a> </h1>
 
 
-** Information Technology Projects:**
+**Information Technology Projects:**
 
 -  **Desktop Hardware Overhaul & OS Deployment Walkthrough**
   - [Part 1: Physical Maintenance — CPU Thermal Servicing & 1TB SSD Upgrade](https://github.com/erwinfab/pc-hardware-refresh-os-deployment#stage-1-physical-maintenance--component-upgrade)
   - [Part 2: Bootable Installation Media Preparation (Windows 10)](https://github.com/erwinfab/pc-hardware-refresh-os-deployment#stage-2-windows-10-bootable-media-creation)
   - [Part 3: UEFI/BIOS Boot Configuration, Disk Partitioning & Fresh Deployment](https://github.com/erwinfab/pc-hardware-refresh-os-deployment#stage-3-bios-configuration--clean-os-installation)
  
-- ** Enterprise Support & Ticket Lifecycle Management (osTicket)**
+- **Enterprise Support & Ticket Lifecycle Management (osTicket)**
   - [(Part 1) osTicket: Prerequisites and Installation](https://github.com/erwinfab/osticket-prereqs)
   - [(Part 2) osTicket: Post-Installation Configuration](https://github.com/erwinfab/post-install-config)
   - [(Part 3) osTicket: Ticket Lifecycle Examples](https://github.com/erwinfab/ticket-lifecycle)
@@ -16,12 +16,12 @@
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/erwinfab/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/erwinfab/azure-network-protocols)
 
-- ** Network Engineering & Connectivity Troubleshooting (Cisco IOS)**
+- **Network Engineering & Connectivity Troubleshooting (Cisco IOS)**
   - [Packet Tracer: Design and Implement a VLSM Addressing Scheme](https://github.com/erwinfab/design-and-implement-a-vlsm-addressing-scheme)
   - [Packet Tracer: Troubleshoot Default Gateway Issues](https://github.com/erwinfab/troubleshoot-default-gateway-issues)
   - [Packet Tracer: Design, Build, and Secure a Small Network (Physical Mode)](https://github.com/erwinfab/design-build-and-secure-a-small-network--physical-mode-)
  
-- ** Red Hat Enterprise Linux (RHEL 9.3) Core Administration Capstone**
+- **Red Hat Enterprise Linux (RHEL 9.3) Core Administration Capstone**
   - [Lab 1: Command Line File Management & Stream Redirection](https://github.com/erwinfab/command-line-file-management-stream-redirection)
   - [Lab 2: Enterprise Identity, Access Management & Local Security](https://github.com/erwinfab/enterprise-identity-access-management-local-security)
   - [Lab 3: Server Configuration & Process Management](https://github.com/erwinfab/server-configuration-process-management)

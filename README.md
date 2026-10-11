@@ -12,7 +12,7 @@
   - [(Part 1) osTicket: Prerequisites and Installation](https://github.com/erwinfab/osticket-prereqs)
   - [(Part 2) osTicket: Post-Installation Configuration](https://github.com/erwinfab/post-install-config)
   - [(Part 3) osTicket: Ticket Lifecycle Examples](https://github.com/erwinfab/ticket-lifecycle)
-- ** Cloud Infrastructure & Identity Access Management (Azure AD)**
+- **Cloud Infrastructure & Identity Access Management (Azure AD)**
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/erwinfab/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/erwinfab/azure-network-protocols)
 

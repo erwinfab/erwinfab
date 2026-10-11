@@ -1,6 +1,6 @@
 <h1>Hi, I'm Erwin, an <a href="https://linkedin.com/in/erwinfabian">IT Professional</a> </h1>
 
-**I specialize in cloud infrastructure, enterprise systems administration, and network engineering. Below is a collection of my hands-on technical labs and portfolio projects.**
+*I specialize in cloud infrastructure, enterprise systems administration, and network engineering. Below is a collection of my hands-on technical labs and portfolio projects.*
 
 
 **Information Technology Projects:**

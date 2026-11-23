@@ -10,7 +10,11 @@
     - [(Part 1): Physical Maintenance — CPU Thermal Servicing & 1TB SSD Upgrade](https://github.com/erwinfab/pc-hardware-refresh-os-deployment#stage-1-physical-maintenance--component-upgrade)
     - [(Part 2): Bootable Installation Media Preparation (Windows 10)](https://github.com/erwinfab/pc-hardware-refresh-os-deployment#stage-2-windows-10-bootable-media-creation)
     - [(Part 3): UEFI/BIOS Boot Configuration, Disk Partitioning & Fresh Deployment](https://github.com/erwinfab/pc-hardware-refresh-os-deployment#stage-3-bios-configuration--clean-os-installation)
- 
+
+- **iPod Nano 3rd Gen (A1236) Restoration & Micro-Soldering**
+    - [(Part 1): [Teardown, Power Rail Diagnostics & Micro-Solder Battery Replacement](#)
+    - [(Part 2): [Display Fault Isolation, LCD Replacement & Verification](#)
+
 - **Enterprise Support & Ticket Lifecycle Management (osTicket)**
   - [(Part 1) osTicket: Prerequisites and Installation](https://github.com/erwinfab/osticket-prereqs)
   - [(Part 2) osTicket: Post-Installation Configuration](https://github.com/erwinfab/post-install-config)

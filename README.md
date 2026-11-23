@@ -12,8 +12,8 @@
     - [(Part 3): UEFI/BIOS Boot Configuration, Disk Partitioning & Fresh Deployment](https://github.com/erwinfab/pc-hardware-refresh-os-deployment#stage-3-bios-configuration--clean-os-installation)
 
 - **iPod Nano 3rd Gen (A1236) Restoration & Micro-Soldering**
-    - [(Part 1): [Teardown, Power Rail Diagnostics & Micro-Solder Battery Replacement]
-    - [(Part 2): [Display Fault Isolation, LCD Replacement & Verification]
+    - [(Part 1): [Teardown, Power Rail Diagnostics & Micro-Solder Battery Replacement](https://github.com/erwinfab/ipod-nano-3rd-gen-restoration)
+    - [(Part 2): [Display Fault Isolation, LCD Replacement & Verification](https://github.com/erwinfab/ipod-nano-3rd-gen-restoration)
 
 - **Enterprise Support & Ticket Lifecycle Management (osTicket)**
   - [(Part 1) osTicket: Prerequisites and Installation](https://github.com/erwinfab/osticket-prereqs)
